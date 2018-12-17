@@ -2,11 +2,12 @@
 {
   "cards": [
     {
-      "text": "Make sure you pet a dog this week!"
+      "text": "Make sure you pet a dog this week!",
+      "emoji": "mask"
     },
     {
-      "text": "",
-      "Emoji": "heart_eyes"
+      "text": "sparklesparkle this is the way to do the thing ok ok np np",
+      "emoji": "heart_eyes"
     },
     {
       "text": "REST is part of work"
